@@ -1,1 +1,1 @@
-**Building Scalable Backend Systems**  ||  **Microservices & Distributed Systems**  ||  **System Design** || **PayPal Career Academy**  ||  **2× Hackathon Winner**  ||  **Founder – Golden Opportunities (8k+ Community)**
+**Building Scalable Backend Systems**  ||  **Microservices & Distributed Systems**  ||  **System Design** || **PayPal Career Academy**  ||  **2× Hackathon Winner**  ||  **Founder – Golden Opportunities (9k+ Community)**
